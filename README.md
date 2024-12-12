@@ -1,8 +1,8 @@
 # Installing on local machine using conda with CUDA support
 
-To install spaCy see found https://spacy.io/usage
+To install spaCy see https://spacy.io/usage
 
-The instructions below installs spaCy with GPU support and trained pipe lines for English, German and Spanish
+The instructions below install spaCy with GPU support and trained pipe lines for English, German and Spanish
 
 ```
 conda install -c conda-forge spacy

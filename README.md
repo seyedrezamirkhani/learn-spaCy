@@ -1,3 +1,9 @@
+# About
+
+This repo stores code used to teach the usage of the spaCy package by the [Advanced NLP with spaCy](https://course.spacy.io/en/) course.
+
+The notebooks for each chapter can be found in the `src/notebooks/` folder.
+
 # Installing on local machine using conda with CUDA support
 
 To install spaCy see https://spacy.io/usage
